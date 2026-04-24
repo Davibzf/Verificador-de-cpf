@@ -1,2 +1,0 @@
-# Verificador de cpf
-
